@@ -1,0 +1,17 @@
+nav{
+    color: aqua;
+    display: flex;
+}
+h1{
+    /*border: red;*/
+    margin-left: 20px;
+    color: bisque;
+}
+
+ul{
+    margin-left: 1000px;
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
