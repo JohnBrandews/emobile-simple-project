@@ -14,4 +14,7 @@ ul{
     gap: 20px;
     list-style-type: none;
 }
+button{
+    background-color: aqua;
+}
 
